@@ -1,2 +1,9 @@
-# opera
-This is a place to keep track of all the thoughts I have for a big opera project. The goal right now is to have the music completely written and performed by Spring 2020.
+# Siddhartha
+An opera by Zachary Viet Pine
+
+_Contents_
+* Precompositional Research
+* Act I: Brahminson
+* Act II: 14 Stations of the Cross
+* Act III: Digression
+* Act IV
