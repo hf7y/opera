@@ -1,0 +1,3 @@
+# Digression
+"Digression, according to Cicero, had been put by Hermagoras . . . in the speech, between the refutation and the conclusion. It might involve praise or blame of individuals, comparison with other cases, or something that emphasized or amplified the subject at hand. Thus it is not literally a digression. Cicero criticizes the requirement as a formal rule and says such treatment should be interwoven into the argument. Ironically, ethical digressions of the sort here described are very characteristic of his greatest speeches."
+[Source](https://www.thoughtco.com/what-is-digression-1690454)
